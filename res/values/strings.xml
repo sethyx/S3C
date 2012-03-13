@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Welcome to S3 Controller!</string>
+    <string name="app_name">S3C</string>
+    <string name="start">Start</string>
+    <string name="xbmc">XBMC</string>
+    <string name="stop">Stop</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
